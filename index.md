@@ -1,9 +1,9 @@
 ---
-title: reproductive_test
+title: reproductive autonomy
 layout: base
 ---
 
-# ScrollStory Template for Xanthan
+# reproductive autonomy
 
 A ready-to-use template for creating immersive narrative essays with scrolling backgrounds, overlays, and visual storytelling. This template is part of [Xanthan](xanthan-web-github.io).
 
