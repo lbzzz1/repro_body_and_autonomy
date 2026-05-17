@@ -32,11 +32,12 @@ tags:
 %}
 
 
-The left photo, titled After Sterilization (《结扎之后》), was shot by a Chinese photographer Jialin Wu in 1991, at a township health center in Xuanwei, Yunnan Province in China. In this picture, we can see a husband carrying his wife—who has just completed the surgery and has not yet recovered her strength—high on his back using a bamboo basket, hurriedly leaving the health center. Around them, other farmers are gathered in front of the clinic door, either squatting or standing with complex expressions, perhaps also waiting for their wives to finish the surgery and come out. Coincidentally, another photographer, Dengke Hou, also captured a similar scene during the family planning policy period (The Right Photo). 
+The left photo, titled *After Sterilization* (《结扎之后》), was shot by a Chinese photographer Jialin Wu in 1991, at a township health center in Xuanwei, Yunnan Province in China. In this picture, we can see a husband carrying his wife—who has just completed the surgery and has not yet recovered her strength—high on his back using a bamboo basket, hurriedly leaving the health center. Around them, other farmers are gathered in front of the clinic door, either squatting or standing with complex expressions, perhaps also waiting for their wives to finish the surgery and come out. Coincidentally, another photographer, Dengke Hou, also captured a similar scene during the family planning policy period (The Right Photo). 
 
 These documentary images reproduce a scene of Chinese rural women gathered and having undergone sterilization surgeries during the high-pressure era of the family planning policy in the late 20th century. They not only record the bodily trauma of rural women during that high-pressure era, but also provide a unique visual window through which to observe how state policy embedded itself into microscopic individual lives.
 
-However, within the grand narratives surrounding this globally scrutinized population control policy, women are often reduced to mere numbers in statistical data or passive objects of state policy. While these documentary images capture their silent pain, the negatives of history cannot speak for themselves. Therefore, the central research question of this study is: behind the grand narratives of this population policy, what were the lived, individual experiences of the rural women who stood at the very center of this storm? 
+While these documentary images capture their silent pain, existing scholarship on the family planning policy predominantly operates within grand narratives. Under this globally scrutinized population policy, women are frequently reduced to mere statistical aggregates, neglected, or muted—leaving their own voices entirely unheard. Therefore, this research aims to move beyond these overarching state narratives, penetrating into the granular recesses of individual lives to unearth the lived experiences and reproductive bodies of women, particularly those from rural areas, who stood at the very center of this storm. Adopting a reproductive justice framework, this study seeks to critically reinterrogate the broader family-planning regime, as epitomized by the one-child policy."
+
 
 
 ```yaml
@@ -309,16 +310,21 @@ Wang, Qian, and Aihua Xiao, eds. Zhongguo renkou he jihua shengyu nianjian 2008 
 
 
 **Local Gazetteer:**
+
 Population and Family Planning Office of Dazhong Town, Dafeng City, ed. Renkou yu jihua shengyu zhi, 1955–2010 [Gazetteer of Population and Family Planning, 1955–2010]. N.p., 2011.
 
 
 **Newspaper & Media:**
+
 Xiong, Jian. "Zhaodi weishenme shaole" [Why are there fewer girls named Zhaodi]. Renmin ribao haiwai ban [People's Daily Overseas Edition], May 18, 2021. https://paper.people.com.cn/rmrbhwb/html/2021-05/18/content_3048979.htm.
+
 Xinhua News Agency. "Shanxi Ankang tongbao 'da yuefen yinchan' diaocha jieguo he chuli jueding" [Ankang, Shaanxi announces investigation results and handling decision on the 'late-term induced abortion']. June 26, 2012. https://web.archive.org/web/20230124091101/http://www.gov.cn/govweb/jrzg/2012-06/26/content_2170557.htm.
 
 
 **Photograph:**
+
 Hou, Dengke. Jihua Shengyu Tujiji [Family Planning Campaign]. 1991. Photograph, Lintong, Shaanxi.
+
 Wu, Jialin. Jiezha zhihou [After Sterilization]. 1991. Photograph.
 
 
