@@ -21,7 +21,7 @@ tags:
   - music
 ---
 
-## After Sterilization: Women's Reproductive Bodies
+## "After Sterilization": Women's Reproductive Bodies
 
 {% include images/juxtapose.html
   image1="images/Picture1.png"
@@ -31,9 +31,11 @@ tags:
 %}
 
 
-The photo, titled After Sterilization (《结扎之后》), was shot by photographer Wu Jialin in 1991, at a township health center in Xuanwei, Yunnan Province in China. In the picture, we can see a husband carrying his wife—who has just completed the surgery and has not yet recovered her strength—high on his back using a bamboo basket, hurriedly leaving the health center. Around them, other farmers are gathered in front of the clinic door, either squatting or standing with complex expressions, perhaps also waiting for their wives to finish the surgery and come out. 
+The left photo, titled After Sterilization (《结扎之后》), was shot by a Chinese photographer Jialin Wu in 1991, at a township health center in Xuanwei, Yunnan Province in China. In this picture, we can see a husband carrying his wife—who has just completed the surgery and has not yet recovered her strength—high on his back using a bamboo basket, hurriedly leaving the health center. Around them, other farmers are gathered in front of the clinic door, either squatting or standing with complex expressions, perhaps also waiting for their wives to finish the surgery and come out. Coincidentally, another photographer, Dengke Hou, also captured a similar scene during the family planning policy period (The Right Photo). 
 
-Coincidentally, another photographer, Dengke Hou, also captured a similar scene during the family planning policy period (Pictures 2). These documentary images reproduce a scene of Chinese rural women gathered and having undergone sterilization surgeries during the high-pressure era of the family planning policy in the late 20th century.
+These documentary images reproduce a scene of Chinese rural women gathered and having undergone sterilization surgeries during the high-pressure era of the family planning policy in the late 20th century. They not only record the bodily trauma of rural women during that high-pressure era, but also provide a unique visual window through which to observe how state policy embedded itself into microscopic individual lives.
+
+However, within the grand narratives surrounding this globally scrutinized population control policy, women are often reduced to mere numbers in statistical data or passive objects of state policy. While these documentary images capture their silent pain, the negatives of history cannot speak for themselves. Therefore, the central research question of this study is: behind the grand narratives of this population policy, what were the lived, individual experiences of the rural women who stood at the very center of this storm? 
 
 
 ```yaml
