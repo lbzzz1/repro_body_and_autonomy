@@ -26,9 +26,15 @@ tags:
 {% include images/juxtapose.html
   image1="Picture1.png"
   image2="Picture2.png"
-  starting-position="40%"
-  caption="Drag the slider to compare two forest scenes — mist vs. dappled light. The starting position is set to 35% so readers see more of the second image initially."
+  starting-position="35%"
+  caption="Drag the slider to see two similar documentary scenes."
 %}
+
+**Why use juxtapose?** When you want readers to actively explore the relationship between two images. The interactive slider invites engagement—readers control what they see.
+
+**Use cases:** Historical photos showing change over time, different views of the same location, comparing maps or documents, revealing differences that might be subtle.
+
+The `starting-position="35%"` shifts the slider so readers don't start at the default 50/50 split.
 
 This photo (1), titled After Sterilization (《结扎之后》), was shot by photographer Wu Jialin in 1991, at a township health center in Xuanwei, Yunnan Province in China. In the picture, we can see a husband carrying his wife—who has just completed the surgery and has not yet recovered her strength—high on his back using a bamboo basket, hurriedly leaving the health center. Around them, other farmers are gathered in front of the clinic door, either squatting or standing with complex expressions, perhaps also waiting for their wives to finish the surgery and come out. 
 Coincidentally, another photographer, Dengke Hou, also captured a similar scene during the family planning policy period (Pictures 2 & 3). These documentary images reproduce a scene of Chinese rural women gathered and having undergone sterilization surgeries during the high-pressure era of the family planning policy in the late 20th century.
@@ -66,13 +72,6 @@ The key to Forest essays is knowing when to use which tool. Not every moment nee
 
 
 
-
-
-**Why use juxtapose?** When you want readers to actively explore the relationship between two images. The interactive slider invites engagement—readers control what they see.
-
-**Use cases:** Historical photos showing change over time, different views of the same location, comparing maps or documents, revealing differences that might be subtle.
-
-The `starting-position="35%"` shifts the slider so readers don't start at the default 50/50 split.
 
 
 
