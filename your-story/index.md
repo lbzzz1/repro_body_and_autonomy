@@ -36,7 +36,7 @@ The left photo, titled *After Sterilization* (《结扎之后》), was shot by a
 
 These documentary images reproduce a scene of Chinese rural women gathered and having undergone sterilization surgeries during the high-pressure era of the family planning policy in the late 20th century. They not only record the bodily trauma of rural women during that high-pressure era, but also provide a unique visual window through which to observe how state policy embedded itself into microscopic individual lives.
 
-While these documentary images capture their silent pain, existing scholarship on the family planning policy predominantly operates within grand narratives. Under this globally scrutinized population policy, women are frequently reduced to mere statistical aggregates, neglected, or muted—leaving their own voices entirely unheard. Therefore, this research aims to move beyond these overarching state narratives, penetrating into the granular recesses of individual lives to unearth the lived experiences and reproductive bodies of women, particularly those from rural areas, who stood at the very center of this storm. Adopting a reproductive justice framework, this study seeks to critically reinterrogate the broader family-planning regime, as epitomized by the one-child policy."
+While these documentary images capture their silent pain, existing scholarship on the family planning policy predominantly operates within grand narratives. Under this globally scrutinized population policy, women are frequently reduced to mere statistical aggregates, neglected, or muted—leaving their own voices entirely unheard. Therefore, this research aims to move beyond these overarching state narratives, penetrating into the granular recesses of individual lives to unearth the lived experiences and reproductive bodies of women, particularly those from rural areas, who stood at the very center of this storm. Adopting a reproductive justice framework, this study seeks to critically reinterrogate the broader family-planning regime, as epitomized by the one-child policy.
 
 
 
@@ -296,36 +296,34 @@ If you can create a Forest essay, you have mastered:
 
 **Policy Documents and Official Publications:**
 
-Editorial Board of China Family Planning Yearbook, ed. Zhongguo jihua shengyu nianjian [China Family Planning Yearbook]. Beijing: China Social Sciences Press, 1986–1990.
+National Population and Family Planning Commission of the People's Republic of China. “病残儿医学鉴定管理办法” [Administrative Measures for the Medical Appraisal of Sick and Disabled Children]. Decree No. 7, January 18, 2002.
 
-National Population and Family Planning Commission of the People's Republic of China. 病残儿医学鉴定管理办法 [Administrative Measures for the Medical Appraisal of Sick and Disabled Children]. Decree No. 7, January 18, 2002.
+National Population and Family Planning Commission, ed. “计划生育规章汇编” [Compilation of Family Planning Regulations]. Beijing: China Population Publishing House, 1990.
 
-National Population and Family Planning Commission, ed. Jihua shengyu guizhang huibian [Compilation of Family Planning Regulations]. Beijing: China Population Publishing House, 1990.
-
-National Population and Family Planning Commission. Zhongguo renkou he jihua shengyu shi [History of China's Population and Family Planning]. Beijing: China Population Publishing House, 2007.
+National Population and Family Planning Commission. “中国人口和计划生育史” [History of China's Population and Family Planning]. Beijing: China Population Publishing House, 2007.
 
 Shenzhen Municipal People's Government. "人口计生委推荐新时期标语口号" [Population and Family Planning Commission Recommends Slogans for the New Era]. August 8, 2007. https://www.sz.gov.cn/cn/xxgk/zfxxgj/tzgg/content/mpost_1613186.html.
 
-Wang, Qian, and Aihua Xiao, eds. Zhongguo renkou he jihua shengyu nianjian 2008 [China Population and Family Planning Yearbook 2008]. 1st ed. Beijing: China Population and Family Planning Yearbook Press, 2008.
+Wang, Qian, and Aihua Xiao, eds. “中国人口和计划生育年鉴 2008” [China Population and Family Planning Yearbook 2008]. 1st ed. Beijing: China Population and Family Planning Yearbook Press, 2008.
 
 
 **Local Gazetteer:**
 
-Population and Family Planning Office of Dazhong Town, Dafeng City, ed. Renkou yu jihua shengyu zhi, 1955–2010 [Gazetteer of Population and Family Planning, 1955–2010]. N.p., 2011.
+Population and Family Planning Office of Dazhong Town, Dafeng City, ed. “人口与计划生育志，1955–2010” [Gazetteer of Population and Family Planning, 1955–2010]. N.p., 2011.
 
 
 **Newspaper & Media:**
 
-Xiong, Jian. "Zhaodi weishenme shaole" [Why are there fewer girls named Zhaodi]. Renmin ribao haiwai ban [People's Daily Overseas Edition], May 18, 2021. https://paper.people.com.cn/rmrbhwb/html/2021-05/18/content_3048979.htm.
+Xiong, Jian. "招娣为什么少了" [Why are there fewer girls named Zhaodi]. People's Daily Overseas Edition, May 18, 2021. https://paper.people.com.cn/rmrbhwb/html/2021-05/18/content_3048979.htm.
 
-Xinhua News Agency. "Shanxi Ankang tongbao 'da yuefen yinchan' diaocha jieguo he chuli jueding" [Ankang, Shaanxi announces investigation results and handling decision on the 'late-term induced abortion']. June 26, 2012. https://web.archive.org/web/20230124091101/http://www.gov.cn/govweb/jrzg/2012-06/26/content_2170557.htm.
+Xinhua News Agency. "陕西安康通报大月份引产调查结果和处理决定" [Ankang, Shaanxi announces investigation results and handling decision on the 'late-term induced abortion']. June 26, 2012. https://web.archive.org/web/20230124091101/http://www.gov.cn/govweb/jrzg/2012-06/26/content_2170557.htm.
 
 
 **Photograph:**
 
-Hou, Dengke. Jihua Shengyu Tujiji [Family Planning Campaign]. 1991. Photograph, Lintong, Shaanxi.
+Hou, Dengke. “计划生育突击” [Family Planning Campaign]. 1991. Photograph, Lintong, Shaanxi.
 
-Wu, Jialin. Jiezha zhihou [After Sterilization]. 1991. Photograph.
+Wu, Jialin. “结扎之后” [After Sterilization]. 1991. Photograph.
 
 
 
