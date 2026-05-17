@@ -1,9 +1,9 @@
 ---
-title: Forest
-author: Fred Gibbs
+title: The Family-Planning Policy and Reproductive Justice
+author: Y.Z.
 layout: scrollstory
-date: 2025-07-21
-thumbnail: images/forest.jpg
+date: 2026-05-17
+thumbnail: Cover Pic.png
 summary: The kitchen sink of demos. This essay showcases every ScrollStory component — background switching, sticky backgrounds, side-scroll sections, juxtapose comparisons, and more.
 header-image: images/sebastian-unrau-sp-p7uuT0tw-unsplash.jpg
 header-title: The Forest
@@ -21,7 +21,17 @@ tags:
   - music
 ---
 
-This essay demonstrates everything from Seedling and Sapling, plus background image switching, sticky backgrounds, side-scroll sections, juxtapose comparisons, and the full header system. This is the complete cinematic experience.
+## After Sterilization: Women's Reproductive Bodies
+
+{% include images/juxtapose.html
+  image1="Picture1.png"
+  image2="Picture2.png"
+  starting-position="40%"
+  caption="Drag the slider to compare two forest scenes — mist vs. dappled light. The starting position is set to 35% so readers see more of the second image initially."
+%}
+
+This photo (1), titled After Sterilization (《结扎之后》), was shot by photographer Wu Jialin in 1991, at a township health center in Xuanwei, Yunnan Province in China. In the picture, we can see a husband carrying his wife—who has just completed the surgery and has not yet recovered her strength—high on his back using a bamboo basket, hurriedly leaving the health center. Around them, other farmers are gathered in front of the clinic door, either squatting or standing with complex expressions, perhaps also waiting for their wives to finish the surgery and come out. 
+Coincidentally, another photographer, Dengke Hou, also captured a similar scene during the family planning policy period (Pictures 2 & 3). These documentary images reproduce a scene of Chinese rural women gathered and having undergone sterilization surgeries during the high-pressure era of the family planning policy in the late 20th century.
 
 Notice the header above: it includes an **eyebrow** ("ScrollStory Demo"), a **divider** (the decorative line of symbols), and a **subtitle** below the title. These hero-only fields are set in the front matter:
 
@@ -56,15 +66,7 @@ The key to Forest essays is knowing when to use which tool. Not every moment nee
 
 
 
-## Juxtapose: Before/After Comparisons
-Below you'll see a **juxtapose component**—an interactive slider that lets readers compare two images by dragging a handle left and right.
 
-{% include images/juxtapose.html
-  image1="images/misty-forest.jpg"
-  image2="images/forest-floor-light.jpg"
-  starting-position="35%"
-  caption="Drag the slider to compare two forest scenes — mist vs. dappled light. The starting position is set to 35% so readers see more of the second image initially."
-%}
 
 **Why use juxtapose?** When you want readers to actively explore the relationship between two images. The interactive slider invites engagement—readers control what they see.
 
