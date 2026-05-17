@@ -298,18 +298,18 @@ If you can create a Forest essay, you have mastered:
 
 National Population and Family Planning Commission of the People's Republic of China. “病残儿医学鉴定管理办法” [Administrative Measures for the Medical Appraisal of Sick and Disabled Children]. Decree No. 7, January 18, 2002.
 
-National Population and Family Planning Commission, ed. “计划生育规章汇编” [Compilation of Family Planning Regulations]. Beijing: China Population Publishing House, 1990.
+National Population and Family Planning Commission, ed. 《计划生育规章汇编》 [Compilation of Family Planning Regulations]. Beijing: China Population Publishing House, 1990.
 
-National Population and Family Planning Commission. “中国人口和计划生育史” [History of China's Population and Family Planning]. Beijing: China Population Publishing House, 2007.
+National Population and Family Planning Commission. 《中国人口和计划生育史》 [History of China's Population and Family Planning]. Beijing: China Population Publishing House, 2007.
 
 Shenzhen Municipal People's Government. "人口计生委推荐新时期标语口号" [Population and Family Planning Commission Recommends Slogans for the New Era]. August 8, 2007. https://www.sz.gov.cn/cn/xxgk/zfxxgj/tzgg/content/mpost_1613186.html.
 
-Wang, Qian, and Aihua Xiao, eds. “中国人口和计划生育年鉴 2008” [China Population and Family Planning Yearbook 2008]. 1st ed. Beijing: China Population and Family Planning Yearbook Press, 2008.
+Wang, Qian, and Aihua Xiao, eds. 《中国人口和计划生育年鉴 2008》 [China Population and Family Planning Yearbook 2008]. 1st ed. Beijing: China Population and Family Planning Yearbook Press, 2008.
 
 
 **Local Gazetteer:**
 
-Population and Family Planning Office of Dazhong Town, Dafeng City, ed. “人口与计划生育志，1955–2010” [Gazetteer of Population and Family Planning, 1955–2010]. N.p., 2011.
+Population and Family Planning Office of Dazhong Town, Dafeng City, ed. 《人口与计划生育志，1955–2010》 [Gazetteer of Population and Family Planning, 1955–2010]. N.p., 2011.
 
 
 **Newspaper & Media:**
@@ -326,5 +326,22 @@ Hou, Dengke. “计划生育突击” [Family Planning Campaign]. 1991. Photogra
 Wu, Jialin. “结扎之后” [After Sterilization]. 1991. Photograph.
 
 
+**Secondary Source"**
 
+**Books:**
 
+Hershatter, Gail. The Gender of Memory: Rural Women and China's Collective Past. Berkeley: University of California Press，2011.
+
+Hu, Guixiang.《中国计划生育与西村妇女：1950–1980》 [Family Planning in China: Women in Xicun Village: 1950–1980]. Beijing: China Social Sciences Press，2017.
+
+Mellors Rodriguez, Sarah. Reproductive Realities in Modern China: Birth Control and Abortion, 1911–2021. 1st ed. Cambridge: Cambridge University Press，2023.
+
+Mo, Mo.《丰乳肥臀》 [Big Breasts and Wide Hips]. Beijing: Writers Publishing House，1995.
+
+**Journal Articles：**
+
+Chen, En. "论独生子女政策的社会起源“ [On the social origins of the one-child policy]. Journal of the Graduate School of Chinese Academy of Social Sciences，2012.
+
+**Newspaper & Media：**
+
+Guangming Daily. "盼得子！20年生9女取名从招娣到求娣“ [Hoping for a son! Giving birth to 9 daughters within 20 years, named from 'Zhaodi' to 'Qiudi']. March 14, 2025. https://guangming.com/
