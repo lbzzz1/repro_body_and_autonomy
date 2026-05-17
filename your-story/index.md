@@ -39,13 +39,11 @@ However, within the grand narratives surrounding this globally scrutinized popul
 
 
 ```yaml
-header-eyebrow: ScrollStory Demo
-header-divider: ✦ ✦ ✦
-header-subtitle: every component, one essay
+ ✦ ✦ ✦
 ```
 
 
-## Auto-scroll: demo mode
+## Family-planning policy: A brief history
 
 This essay also has `autoscroll: true` in the page header--you may have noticed a little popup in the lower right of your screen--which enables a hands-free scrolling mode useful for demos and recordings. Anywhere on the page, press **P** to start auto-scrolling; press **P** again to pause. Scrolling manually, pressing **Escape**, or using arrow keys also pauses it.
 
@@ -289,9 +287,29 @@ If you can create a Forest essay, you have mastered:
 
 
 
-## Ready to Create Your Own?
+## Bibliography
 
-**New to Xanthan?** Start with the [Getting Started guide](../../../docs/getting-started/) to create your own site first. Once you have a working site, come back here to build your ScrollStory.
+**Primary Source:**
+
+**Policy Documents and Official Publications:**
+Editorial Board of China Family Planning Yearbook, ed. Zhongguo jihua shengyu nianjian [China Family Planning Yearbook]. Beijing: China Social Sciences Press, 1986–1990.
+National Population and Family Planning Commission of the People's Republic of China. 病残儿医学鉴定管理办法 [Administrative Measures for the Medical Appraisal of Sick and Disabled Children]. Decree No. 7, January 18, 2002.
+National Population and Family Planning Commission, ed. Jihua shengyu guizhang huibian [Compilation of Family Planning Regulations]. Beijing: China Population Publishing House, 1990.
+National Population and Family Planning Commission. Zhongguo renkou he jihua shengyu shi [History of China's Population and Family Planning]. Beijing: China Population Publishing House, 2007.
+Shenzhen Municipal People's Government. "人口计生委推荐新时期标语口号" [Population and Family Planning Commission Recommends Slogans for the New Era]. August 8, 2007. https://www.sz.gov.cn/cn/xxgk/zfxxgj/tzgg/content/mpost_1613186.html.
+Wang, Qian, and Aihua Xiao, eds. Zhongguo renkou he jihua shengyu nianjian 2008 [China Population and Family Planning Yearbook 2008]. 1st ed. Beijing: China Population and Family Planning Yearbook Press, 2008.
+
+**Local Gazetteer:**
+Population and Family Planning Office of Dazhong Town, Dafeng City, ed. Renkou yu jihua shengyu zhi, 1955–2010 [Gazetteer of Population and Family Planning, 1955–2010]. N.p., 2011.
+
+**Newspaper & Media:**
+Xiong, Jian. "Zhaodi weishenme shaole" [Why are there fewer girls named Zhaodi]. Renmin ribao haiwai ban [People's Daily Overseas Edition], May 18, 2021. https://paper.people.com.cn/rmrbhwb/html/2021-05/18/content_3048979.htm.
+Xinhua News Agency. "Shanxi Ankang tongbao 'da yuefen yinchan' diaocha jieguo he chuli jueding" [Ankang, Shaanxi announces investigation results and handling decision on the 'late-term induced abortion']. June 26, 2012. https://web.archive.org/web/20230124091101/http://www.gov.cn/govweb/jrzg/2012-06/26/content_2170557.htm.
+
+**Photograph:**
+Hou, Dengke. Jihua Shengyu Tujiji [Family Planning Campaign]. 1991. Photograph, Lintong, Shaanxi.
+Wu, Jialin. Jiezha zhihou [After Sterilization]. 1991. Photograph.
+
 
 
 
