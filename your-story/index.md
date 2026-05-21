@@ -3,14 +3,9 @@ title: The Family-Planning Policy and Reproductive Justice
 author: Y.Z.
 layout: scrollstory
 date: 2026-05-17
-thumbnail: Cover Pic.png
-summary: The kitchen sink of demos. This essay showcases every ScrollStory component — background switching, sticky backgrounds, side-scroll sections, juxtapose comparisons, and more.
-header-image: images/sebastian-unrau-sp-p7uuT0tw-unsplash.jpg
-header-title: The Forest
-header-eyebrow: ScrollStory Demo
-header-divider: ✦ ✦ ✦
-header-subtitle: every component, one essay
-header-caption: Photo by <a href="https://unsplash.com/@sebastian_unrau">Sebastian Unrau</a> on <a href="https://unsplash.com">Unsplash</a>
+header-image: images/Cover Pic.png
+header-title: The Family-Planning Policy and Reproductive Justice
+header-caption: Photo by Dengke Hou
 header-position: 0px
 toc-section: piano
 autoscroll: true
@@ -21,7 +16,7 @@ tags:
   - music
 ---
 
-## "After Sterilization": Women's Reproductive Bodies
+## "After sterilization": Women's Reproductive Bodies
 
 
 {% include images/juxtapose.html
