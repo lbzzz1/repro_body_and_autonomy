@@ -16,7 +16,9 @@ tags:
   - music
 ---
 
+
 ## "After sterilization": Women's Reproductive Bodies
+
 
 
 {% include images/juxtapose.html
@@ -35,9 +37,11 @@ While these documentary images capture their silent pain, existing scholarship o
 
 
 
+
 ```yaml
  ✦ ✦ ✦
 ```
+
 
 
 ## Part one: Family-planning policy: A brief history
@@ -84,7 +88,6 @@ However, does this represent the full picture? How can we objectively, reasonabl
 
 <p align="middle">
   <img src="images/biaoyu.png" style="height: 60vh; object-fit: cover;" alt="Promotional Slogan">
-</p>
 <p align="middle" style="font-size: 0.9em; color: #666; max-width: 600px;">
   A promotional slogan painted on a wall by local authorities, reading: "Prohibit the discrimination, abuse, and abandonment of female infants."
 </p>
@@ -129,10 +132,22 @@ In fact, we can see that this so-called “one-and-a-half-child” policy was a 
 
 #### “Zhao Di”, the Culture of Naming Daughters
 
-Many women, especially those from older generations, have names containing the character “Di” (娣), such as Pan Di (盼娣) and Zhao Di (招娣). Structurally, the character “Di” is composed of two radicals: “Nü” (女, meaning woman/daughter) and “Di” (弟, meaning younger brother). Thus, these two names respectively signify “hoping the next child will be a younger brother” and “beckoning a younger brother.”  Media outlets have also reported real-life cases, such as a family that gave birth to nine consecutive daughters over twenty years, all named with variations of “Di”. This reality is also mirrored in literary and cinematic works. For instance, in Big Breasts and Wide Hips (Fengru Feitun)—a masterpiece by the renowned Chinese author Yan Mo—a mother names her seven daughters Lai Di (来娣, “bringing a brother”), Zhao Di (招娣, also “bringing a brother”), Ling Di (领娣, “leading a brother”), Xiang Di (想娣, “thinking of a brother”), Pan Di (盼娣, “looking for a brother”), Nian Di (念娣, “missing a brother”), and Qiu Di (求娣, “begging for a brother”)—a sequence that vividly portrays her deepening obsession with having a son. 
+
+Many women, especially those from older generations, have names containing the character “Di” (娣), such as Pan Di (盼娣) and Zhao Di (招娣). Structurally, the character “Di” is composed of two radicals: “Nü” (女, meaning woman/daughter) and “Di” (弟, meaning younger brother). Thus, these two names respectively signify “hoping the next child will be a younger brother” and “beckoning a younger brother.” 
+
+
+{% include scrollybox/bg.html
+  height="320vh"
+  image-path="di.png"
+  above-box-space="100vh"
+  below-box-space="120vh"
+  box-align="right"
+  box-content="
+  
+**Looking up through the canopy** — Media outlets have also reported real-life cases, such as a family that gave birth to nine consecutive daughters over twenty years, all named with variations of “Di”. This reality is also mirrored in literary and cinematic works. For instance, in Big Breasts and Wide Hips (Fengru Feitun)—a masterpiece by the renowned Chinese author Yan Mo—a mother names her seven daughters Lai Di (来娣, “bringing a brother”), Zhao Di (招娣, also “bringing a brother”), Ling Di (领娣, “leading a brother”), Xiang Di (想娣, “thinking of a brother”), Pan Di (盼娣, “looking for a brother”), Nian Di (念娣, “missing a brother”), and Qiu Di (求娣, “begging for a brother”)—a sequence that vividly portrays her deepening obsession with having a son. 
 
 Furthermore, precisely because Chinese characters are ideographic, anyone encountering these women’s names can immediately discern their parents' intense desire and obsession for a son, as well as the marginalized, disempowered status of these women within their own families.
-
+%}
 
 
 
@@ -140,20 +155,7 @@ Furthermore, precisely because Chinese characters are ideographic, anyone encoun
 ## Standard Scrollybox (From Sapling)
 The next section uses a basic scrollybox like you saw in Sapling. Keep scrolling to see text overlay a full-screen background image.
 
-{% include scrollybox/bg.html
-  height="320vh"
-  image-path="images/tree-canopy-up.jpg"
-  above-box-space="100vh"
-  below-box-space="120vh"
-  box-align="right"
-  box-content="
-**Looking up through the canopy** — this scrollybox is right-aligned, using `box-align: right`.
 
-All the same Markdown works here — and this is the same component you saw in Sapling. Forest essays use it freely alongside advanced features.
-
-Use `above-box-space` and `below-box-space` to control pacing — more space means slower, more contemplative scrolling.
-"
-%}
 
 
 
@@ -319,8 +321,6 @@ If you can create a Forest essay, you have mastered:
 **Between all the essays, you've seen the full Xanthan toolkit.** Not every essay needs every feature, but you now have complete control over how to tell visual stories on the web.
 
 ---
-
-**Feeling overwhelmed?** Start with [Seedling](../seedling/) or [Sapling](../sapling/) so there is just less stuff to deal with. You can always copy and paste Xanthan components into your page. There's nothing special about this page--it just uses more components!
 
 
 
