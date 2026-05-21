@@ -161,10 +161,16 @@ However, does this represent the full picture? How can we objectively, reasonabl
 
 
 
-{% include images/single-image.html
-  image="images/biaoyu.png"
-  caption="A promotional slogan painted on a wall by local authorities, reading: Prohibit the discrimination, abuse, and abandonment of female infants."
+
+{% include scrollybox/bg.html
+  height="300vh"
+  image-path="images/biaoyu.png"
+  above-box-space="30vh"
+  below-box-space="30vh"
+  box-align="right"
+  box-content='A promotional slogan painted on a wall by local authorities, reading: Prohibit the discrimination, abuse, and abandonment of female infants.'
 %}
+
 
 
 
