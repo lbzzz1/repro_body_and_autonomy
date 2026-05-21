@@ -147,8 +147,9 @@ In light of this, the government issued Document No. 7 on April 13, 1984, titled
 %}
 
 
-In fact, we can see that this so-called “one-and-a-half-child” policy was a response by the government to the resistance of the peasantry, who were driven by traditional and rooted gender preference. It represented a partial compromise and concession. Consequently, the emergence of such a semi-policy actually resulted in the following consequence: the state, in a disguised form, recognized that the value of a girl is far inferior to that of a boy, and therefore another must be born to make up for it. This policy influence, acting as a psychological suggestive guidance, has actually deepened the concept of preferring sons over daughters. The policy itself has a gender orientation; the policy is not gender-neutral.
+<p>In fact, we can see that this so-called “one-and-a-half-child” policy was a response by the government to the resistance of the peasantry, who were driven by traditional and rooted gender preference. It represented a partial compromise and concession. Consequently, the emergence of such a semi-policy actually resulted in the following consequence: the state, in a disguised form, recognized that the value of a girl is far inferior to that of a boy, and therefore another must be born to make up for it. This policy influence, acting as a psychological suggestive guidance, has actually deepened the concept of preferring sons over daughters. The policy itself has a gender orientation; the policy is not gender-neutral.
 
+<div style="clear:both;display:block;width:100%;height:1px;"></div>
 
 
 
