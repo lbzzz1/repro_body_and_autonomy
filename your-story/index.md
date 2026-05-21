@@ -119,20 +119,20 @@ However, does this represent the full picture? How can we objectively, reasonabl
 
 
 
-### Having a Second Child? Exceptions Under the High-Pressure One-Child Policy
+<p style="font-weight: bold; font-size: 1em; margin-top: 2em; margin-bottom: 0.8em; font-family: inherit; color: #222;"> Having a Second Child? Exceptions Under the High-Pressure One-Child Policy
 
 
-#### 1.	The disabled firstborn exception
+<p style="font-weight: bold; font-size: 1.25em; margin-top: 2em; margin-bottom: 0.8em; font-family: inherit; color: #222;"> 1.	The disabled firstborn exception
 
-Although the family planning policy was strictly implemented during the 1980s, certain exceptions still existed. One was when the firstborn was disabled—Policy documents explicitly stipulated that when the first child was a disabled child, approval could be granted to have a second child. 
+<p>Although the family planning policy was strictly implemented during the 1980s, certain exceptions still existed. One was when the firstborn was disabled—Policy documents explicitly stipulated that when the first child was a disabled child, approval could be granted to have a second child. 
 
-To this end, the Administrative Measures for the Medical Identification of Disabled Children was promulgated. Under these measures, family planning administrative departments at the provincial and municipal levels (with districts) established expert panels for the medical identification of disabled children. Relevant professionals holding titles of associate senior level or above in the medical field were recruited to review application materials for disabled children (including those with congenital or acquired illnesses, or disabilities resulting from accidental injuries) and to make professional medical identifications.
+<p>To this end, the Administrative Measures for the Medical Identification of Disabled Children was promulgated. Under these measures, family planning administrative departments at the provincial and municipal levels (with districts) established expert panels for the medical identification of disabled children. Relevant professionals holding titles of associate senior level or above in the medical field were recruited to review application materials for disabled children (including those with congenital or acquired illnesses, or disabilities resulting from accidental injuries) and to make professional medical identifications.
 
-Childbearing thus became a “quota” that required individuals to apply upward through administrative channels, and was only permitted after official review and approval.
+<p>Childbearing thus became a “quota” that required individuals to apply upward through administrative channels, and was only permitted after official review and approval.
+<div style="clear:both;display:block;width:100%;height:1px;"></div>
 
 
-
-#### 2.	The  “One-and-a-half-child policy”
+<p style="font-weight: bold; font-size: 1.25em; margin-top: 2em; margin-bottom: 0.8em; font-family: inherit; color: #222;"> 2.	The  “One-and-a-half-child policy”
 
 
 <p>As discussed above, during the period of 1980–1984, the government adopted an extremely strict one-child policy. However, policymakers underestimated the intense desire for sons within traditional patriarchal families, especially in rural areas. Thus, the draconian one-child policy brought immense panic and resistance to the peasantry. Many rural couples, after having a daughter, would even leave their hometowns and flee to other places, thereby evading inspections by family planning officials, just to have a son. In the 1990s, a highly famous sketch comedy titled “The Above-Quota Birth Guerrillas” (Chaosheng Youjidui) served as an artistic reflection of this social phenomenon.
