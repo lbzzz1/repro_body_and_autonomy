@@ -73,8 +73,13 @@ From its implementation in 1979 until 2015, the one-child policy remained the gu
 In 2016, the full implementation of the policy allowing all couples to have two children marked the end of the 35-year-old one-child era, officially ushering in the “two-child era.” By 2021, the three-child policy was officially put into effect, accompanied by the rollout of supporting measures to encourage childbirth.
 
 
-## TBD
-Text:
+### How was the family-planning policy implemented hierarchically from the central government to local authorities?
+
+
+First, this implementation relied on a hierarchical deployment of family-planning campaigns. Throughout this process, deploying specialized work mitigation groups (gongzuo zu) into villages to conduct propaganda, mobilize the masses, and provide medical interventions became a ubiquitous and standardized practice. 
+
+Second, this mechanism heavily mobilized local female cadres and grassroot backbones—such as village women’s directors (da dui funü zhuren), female production team leaders, and female barefoot doctors—to disseminate contraceptive and birth-control knowledge specifically targeted at women of childbearing age.
+
 
 {% assign forest_images =
 "images/111.png,
@@ -95,6 +100,14 @@ Barefoot doctors served as the primary grassroots backbone for carrying out tech
   captions=forest_captions
 %}
 
+
+"strengthen technical guidance and extensively publicize the scientific knowledge of birth control." was written in the left photo. Zhao Surong, a doctor from the Tingliuhe Working Committee Hospital, goes into the fields to educate the masses on the scientific knowledge of family planning.
+
+The right photo shows how barefoot doctors served as the primary grassroots backbone for carrying out technical guidance on family planning. Leveraging the barefoot doctors' close ties with and deep understanding of the masses, Laoting County actively publicized the great significance of family planning and effectively managed its technical guidance work. This is barefoot doctor Zhou Jinghua, going deep into commune members' homes and sitting on their kang (heated brick bed-stoves) to promote the benefits of family planning and deliver contraceptives directly to the commune members.
+
+Furthermore, imposing financial and administrative penalties on individuals who violated family planning regulations was one of the standard enforcement mechanisms. When the “Late, Sparse, and Few” policy was implemented in the early 1970s, it was decreed that violators would face consequences such as the revocation of advanced titles, withholding of maternity leave salaries, or fines; severe offenses could even result in administrative sanctions. Serving as a persistent apparatus of state control, such penalties continued into the early 21st century toward the end of the one-child policy era, consecutively termed “above-quota birth fines” or “out-of-plan birth fees.”
+
+For many families, this constituted an overwhelmingly heavy financial burden that could even lead to bankruptcy. Take Beijing as an example: this fee was levied at 3 to 10 times the annual per capita disposable income of urban residents or the annual net income of rural residents, as published by the municipal statistics bureau. Consequently, many children born “secretly” ended up becoming “hei hu” (unregistered citizens).
 
 
 
