@@ -114,27 +114,35 @@ However, does this represent the full picture? How can we objectively, reasonabl
 
 
 
-<p align="middle">
-  <img src="images/biaoyu.png" style="height: 60vh; object-fit: cover;" alt="Promotional Slogan">
-<p align="middle" style="font-size: 0.9em; color: #666; max-width: 600px;">
-  A promotional slogan painted on a wall by local authorities, reading: "Prohibit the discrimination, abuse, and abandonment of female infants."
-</p>
+{% assign forest_images =
+"images/biaoyu.png"
+%}
+
+{% assign forest_captions =
+"A promotional slogan painted on a wall by local authorities, reading: 'Prohibit the discrimination, abuse, and abandonment of female infants.'"
+%}
+
+{% include images/carousel.html
+  id="forest-carousel"
+  width="85%"
+  class="center"
+  images=forest_images
+  headers=forest_headers
+  captions=forest_captions
+%}
 
 
 
 
+### Having a Second Child? Exceptions Under the High-Pressure One-Child Policy
 
+#### 1.	The disabled firstborn exception
 
-<p style="font-weight: bold; font-size: 1em; margin-top: 2em; margin-bottom: 0.8em; font-family: inherit; color: #222;"> Having a Second Child? Exceptions Under the High-Pressure One-Child Policy
+Although the family planning policy was strictly implemented during the 1980s, certain exceptions still existed. One was when the firstborn was disabled—Policy documents explicitly stipulated that when the first child was a disabled child, approval could be granted to have a second child. 
 
+To this end, the Administrative Measures for the Medical Identification of Disabled Children was promulgated. Under these measures, family planning administrative departments at the provincial and municipal levels (with districts) established expert panels for the medical identification of disabled children. Relevant professionals holding titles of associate senior level or above in the medical field were recruited to review application materials for disabled children (including those with congenital or acquired illnesses, or disabilities resulting from accidental injuries) and to make professional medical identifications.
 
-<p style="font-weight: bold; font-size: 1.25em; margin-top: 2em; margin-bottom: 0.8em; font-family: inherit; color: #222;"> 1.	The disabled firstborn exception
-
-<p>Although the family planning policy was strictly implemented during the 1980s, certain exceptions still existed. One was when the firstborn was disabled—Policy documents explicitly stipulated that when the first child was a disabled child, approval could be granted to have a second child. 
-
-<p>To this end, the Administrative Measures for the Medical Identification of Disabled Children was promulgated. Under these measures, family planning administrative departments at the provincial and municipal levels (with districts) established expert panels for the medical identification of disabled children. Relevant professionals holding titles of associate senior level or above in the medical field were recruited to review application materials for disabled children (including those with congenital or acquired illnesses, or disabilities resulting from accidental injuries) and to make professional medical identifications.
-
-<p>Childbearing thus became a “quota” that required individuals to apply upward through administrative channels, and was only permitted after official review and approval.
+Childbearing thus became a “quota” that required individuals to apply upward through administrative channels, and was only permitted after official review and approval.
 <div style="clear:both;display:block;width:100%;height:1px;"></div>
 
 
