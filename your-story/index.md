@@ -116,10 +116,11 @@ However, does this represent the full picture? How can we objectively, reasonabl
 
 
 
-## Having a Second Child? Exceptions Under the High-Pressure One-Child Policy
+
+### Having a Second Child? Exceptions Under the High-Pressure One-Child Policy
 
 
-### 1.	The disabled firstborn exception
+#### 1.	The disabled firstborn exception
 
 Although the family planning policy was strictly implemented during the 1980s, certain exceptions still existed. One was when the firstborn was disabled—Policy documents explicitly stipulated that when the first child was a disabled child, approval could be granted to have a second child. 
 
@@ -129,7 +130,7 @@ Childbearing thus became a “quota” that required individuals to apply upward
 
 
 
-### 2.	The  “One-and-a-half-child policy”
+#### 2.	The  “One-and-a-half-child policy”
 
 
 As discussed above, during the period of 1980–1984, the government adopted an extremely strict one-child policy. However, policymakers underestimated the intense desire for sons within traditional patriarchal families, especially in rural areas. Thus, the draconian one-child policy brought immense panic and resistance to the peasantry. Many rural couples, after having a daughter, would even leave their hometowns and flee to other places, thereby evading inspections by family planning officials, just to have a son. In the 1990s, a highly famous sketch comedy titled “The Above-Quota Birth Guerrillas” (Chaosheng Youjidui) served as an artistic reflection of this social phenomenon.
@@ -149,27 +150,23 @@ In fact, we can see that this so-called “one-and-a-half-child” policy was a 
 
 
 
-## Son preference and its long-term effect:
+### Son preference and its long-term effect:
 
 
-### “Zhao Di”, the Culture of Naming Daughters
+#### “Zhao Di”, the Culture of Naming Daughters
 
 
 Many women, especially those from older generations, have names containing the character “Di” (娣), such as Pan Di (盼娣) and Zhao Di (招娣). Structurally, the character “Di” is composed of two radicals: “Nü” (女, meaning woman/daughter) and “Di” (弟, meaning younger brother). Thus, these two names respectively signify “hoping the next child will be a younger brother” and “beckoning a younger brother.” 
 
 
 {% include scrollybox/bg.html
-  height="200vh"
+  height="300vh"
   image-path="images/di.png"
   above-box-space="150vh"
   below-box-space="150vh"
   box-align="right"
-  box-content="
-
-Media outlets have also reported real-life cases, such as a family that gave birth to nine consecutive daughters over twenty years, all named with variations of “Di”. This reality is also mirrored in literary and cinematic works. For instance, in Big Breasts and Wide Hips (Fengru Feitun)—a masterpiece by the renowned Chinese author Yan Mo—a mother names her seven daughters Lai Di (来娣, “bringing a brother”), Zhao Di (招娣, also “bringing a brother”), Ling Di (领娣, “leading a brother”), Xiang Di (想娣, “thinking of a brother”), Pan Di (盼娣, “looking for a brother”), Nian Di (念娣, “missing a brother”), and Qiu Di (求娣, “begging for a brother”)—a sequence that vividly portrays her deepening obsession with having a son. 
-
-Furthermore, precisely because Chinese characters are ideographic, anyone encountering these women’s names can immediately discern their parents' intense desire and obsession for a son, as well as the marginalized, disempowered status of these women within their own families.
-"
+  box-content="Media outlets have also reported real-life cases, such as a family that gave birth to nine consecutive daughters over twenty years, all named with variations of “Di”. This reality is also mirrored in literary and cinematic works. For instance, in Big Breasts and Wide Hips (Fengru Feitun)—a masterpiece by the renowned Chinese author Yan Mo—a mother names her seven daughters Lai Di (来娣, “bringing a brother”), Zhao Di (招娣, also “bringing a brother”), Ling Di (领娣, “leading a brother”), Xiang Di (想娣, “thinking of a brother”), Pan Di (盼娣, “looking for a brother”), Nian Di (念娣, “missing a brother”), and Qiu Di (求娣, “begging for a brother”)—a sequence that vividly portrays her deepening obsession with having a son. 
+  Furthermore, precisely because Chinese characters are ideographic, anyone encountering these women’s names can immediately discern their parents' intense desire and obsession for a son, as well as the marginalized, disempowered status of these women within their own families."
 %}
 
 
