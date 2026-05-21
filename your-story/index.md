@@ -116,8 +116,9 @@ However, does this represent the full picture? How can we objectively, reasonabl
 
 {% include images/single-image.html
   src="images/biaoyu.png"
-  caption="A promotional slogan painted on a wall by local authorities, reading: 'Prohibit the discrimination, abuse, and abandonment of female infants."
+  caption="A promotional slogan painted on a wall by local authorities, reading: 'Prohibit the discrimination, abuse, and abandonment of female infants.'"
 %}
+
 
 
 
