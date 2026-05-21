@@ -90,7 +90,7 @@ However, does this represent the full picture? How can we objectively, reasonabl
 <p align="middle">
   <img src="images/biaoyu.png" style="height: 60vh; object-fit: cover;" alt="Promotional Slogan">
 </p>
-<p align="middle" style="font-size: 0.9em; color: #666; max-width: 600px; margin-left: auto;">
+<p align="middle" style="font-size: 0.9em; color: #666; max-width: 600px;">
   A promotional slogan painted on a wall by local authorities, reading: "Prohibit the discrimination, abuse, and abandonment of female infants."
 </p>
 
