@@ -110,7 +110,15 @@ Childbearing thus became a “quota” that required individuals to apply upward
 
 As discussed above, during the period of 1980–1984, the government adopted an extremely strict one-child policy. However, policymakers underestimated the intense desire for sons within traditional patriarchal families, especially in rural areas. Thus, the draconian one-child policy brought immense panic and resistance to the peasantry. Many rural couples, after having a daughter, would even leave their hometowns and flee to other places, thereby evading inspections by family planning officials, just to have a son. In the 1990s, a highly famous sketch comedy titled “The Above-Quota Birth Guerrillas” (Chaosheng Youjidui) served as an artistic reflection of this social phenomenon.
 
-In light of this, the government issued Document No. 7 on April 13, 1984, titled “Report on the Situation of Family Planning,” which laid down the following regulation: “In rural areas, there is an urgent need to open the loophole slightly wider in a controlled manner; upon approval, a second child may be allowed.” Consequently, the “one-and-a-half-child” policy—to allow couples in rural areas whose first child was a girl to have a second child— officially came into existence.
+In light of this, the government issued Document No. 7 on April 13, 1984, titled “Report on the Situation of Family Planning,” which laid down the following regulation: 
+
+
+{% include typography/pullquote.html
+  box-align="center"
+  width="70%"
+  text="In rural areas, there is an urgent need to open the loophole slightly wider in a controlled manner; upon approval, a second child may be allowed."
+%}
+
 
 In fact, we can see that this so-called “one-and-a-half-child” policy was a response by the government to the resistance of the peasantry, who were driven by traditional and rooted gender preference. It represented a partial compromise and concession. Consequently, the emergence of such a semi-policy actually resulted in the following consequence: the state, in a disguised form, recognized that the value of a girl is far inferior to that of a boy, and therefore another must be born to make up for it. This policy influence, acting as a psychological suggestive guidance, has actually deepened the concept of preferring sons over daughters. The policy itself has a gender orientation; the policy is not gender-neutral.
 
@@ -174,17 +182,6 @@ Use `bg-sticky` when:
 - The sticky \"lock-in\" moment adds to your narrative
 "
 %}
-
-
-## Center-Aligned Pull Quote
-
-{% include typography/pullquote.html
-  box-align="center"
-  width="70%"
-  text="A center-aligned pull quote at 70% width creates a visual pause that spans nearly the full text column. Use this for the single most important statement in your essay."
-%}
-
-The pull quote above uses `box-align=\"center\"` and `width=\"70%\"` — wider and more prominent than the left- or right-aligned versions you saw in Seedling and Sapling. Reserve center-aligned quotes for your most important ideas.
 
 
 
