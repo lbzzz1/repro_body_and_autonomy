@@ -139,7 +139,7 @@ Many women, especially those from older generations, have names containing the c
 
 {% include scrollybox/bg.html
   height="320vh"
-  image-path="di.png"
+  image-path="images/di.png"
   above-box-space="150vh"
   below-box-space="150vh"
   box-align="right"
