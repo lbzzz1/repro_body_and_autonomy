@@ -47,9 +47,16 @@ While these documentary images capture their silent pain, existing scholarship o
 ## Part one: Family-planning policy: A brief history
 
 
-This essay also has `autoscroll: true` in the page header--you may have noticed a little popup in the lower right of your screen--which enables a hands-free scrolling mode useful for demos and recordings. Anywhere on the page, press **P** to start auto-scrolling; press **P** again to pause. Scrolling manually, pressing **Escape**, or using arrow keys also pauses it.
+### Chronicle of Major Events in Family Planning
 
-Auto-scroll is off by default on all pages. To enable it, add `autoscroll: true` to a page's metadat. Remove the line (or set it to `false`) to disable it.
+China’s family planning policy, particularly the one-child policy officially implemented in 1979, is globally recognized. However, prior to this, since the founding of the People's Republic of China, policies regarding population and birth control had been undergoing continuous adjustments; the one-child policy did not appear out of nowhere, as the groundwork had been laid for a long time.
+
+**The 1950s–1960s:**
+
+During the early post-founding period, the Chinese government encouraged childbirth, believing that a large population was an immensely positive asset. Emulating the Soviet Union, the government honored women who bore many children with the title of "Honorary Mother" and placed restrictions on contraception and induced abortions.
+
+In 1953, at the proposal of demographers such as Ma Yinchu, the Chinese government conducted its first national population census. The data revealed that the population of mainland China had surpassed 600 million, an increase of over 100 million compared to when the nation was founded in 1949. By 1964, data from the second national population census showed that the total national population had reached approximately 723 million.
+
 
 
 ## All the Basics Still Work
