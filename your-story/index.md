@@ -78,7 +78,7 @@ In 2016, the full implementation of the policy allowing all couples to have two 
 
 First, this implementation relied on a hierarchical deployment of family-planning campaigns. Throughout this process, deploying specialized work mitigation groups (gongzuo zu) into villages to conduct propaganda, mobilize the masses, and provide medical interventions became a ubiquitous and standardized practice. 
 
-Second, this mechanism heavily mobilized local female cadres and grassroot backbones—such as village women’s directors (da dui funü zhuren), female production team leaders, and female barefoot doctors—to disseminate contraceptive and birth-control knowledge specifically targeted at women of childbearing age.
+For example, in the left photo, Zhao Surong, a doctor from the Tingliuhe Working Committee Hospital, goes into the fields to educate the masses on the scientific knowledge of family planning. This illustrates how "strengthen technical guidance and extensively publicize the scientific knowledge of birth control."
 
 
 {% assign forest_images =
@@ -101,9 +101,13 @@ Barefoot doctors served as the primary grassroots backbone for carrying out tech
 %}
 
 
-"strengthen technical guidance and extensively publicize the scientific knowledge of birth control." was written in the left photo. Zhao Surong, a doctor from the Tingliuhe Working Committee Hospital, goes into the fields to educate the masses on the scientific knowledge of family planning.
+Second, this mechanism heavily mobilized local female cadres and grassroot backbones—such as village women’s directors (da dui funü zhuren), female production team leaders, and female barefoot doctors—to disseminate contraceptive and birth-control knowledge specifically targeted at women of childbearing age.
 
 The right photo shows how barefoot doctors served as the primary grassroots backbone for carrying out technical guidance on family planning. Leveraging the barefoot doctors' close ties with and deep understanding of the masses, Laoting County actively publicized the great significance of family planning and effectively managed its technical guidance work. This is barefoot doctor Zhou Jinghua, going deep into commune members' homes and sitting on their kang (heated brick bed-stoves) to promote the benefits of family planning and deliver contraceptives directly to the commune members.
+
+Implementing the family planning policy was an arduous endeavor characterized by tedious tasks and deep-seated public resistance to mobilization. Women serving as local women's directors (funü zhuren) faced the heightened institutional expectation to serve as exemplary role models, which effectively mandated that they be the first to undergo sterilization surgeries.
+
+Hu Changyu's experience epitomized this predicament. Despite the explicit reluctance of her in-laws and husband, she nevertheless succumbed to the political pressure, stating, "If I do not take the lead, the other women in the village will never agree to undergo sterilization. Everyone is watching me."
 
 Furthermore, imposing financial and administrative penalties on individuals who violated family planning regulations was one of the standard enforcement mechanisms. When the “Late, Sparse, and Few” policy was implemented in the early 1970s, it was decreed that violators would face consequences such as the revocation of advanced titles, withholding of maternity leave salaries, or fines; severe offenses could even result in administrative sanctions. Serving as a persistent apparatus of state control, such penalties continued into the early 21st century toward the end of the one-child policy era, consecutively termed “above-quota birth fines” or “out-of-plan birth fees.”
 
