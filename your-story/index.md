@@ -73,7 +73,9 @@ From its implementation in 1979 until 2015, the one-child policy remained the gu
 In 2016, the full implementation of the policy allowing all couples to have two children marked the end of the 35-year-old one-child era, officially ushering in the “two-child era.” By 2021, the three-child policy was officially put into effect, accompanied by the rollout of supporting measures to encourage childbirth.
 
 
+
 ### How was the family-planning policy implemented hierarchically from the central government to local authorities?
+
 
 
 First, this implementation relied on a hierarchical deployment of family-planning campaigns. Throughout this process, deploying specialized work mitigation groups (gongzuo zu) into villages to conduct propaganda, mobilize the masses, and provide medical interventions became a ubiquitous and standardized practice. 
@@ -115,9 +117,37 @@ For many families, this constituted an overwhelmingly heavy financial burden tha
 
 
 
+
+### Women's embodied experience
+1. The Corporeal Burden: Becoming the Object of Contraception, Birth Control, and Sterilization
+
+Although a comprehensive spectrum of contraceptive interventions (ranging from oral contraceptives and intrauterine devices (IUDs) to induced abortions and tubal ligations) was universally provisioned to women, the agency over whether and how to utilize them was completely stripped from their hands. 
+
+For instance, in West Village during the 1980s, the prescriptive principle of birth control mandated that "an IUD follow the first child, and sterilization follow the second." These interventions were coercively imposed and rigorously enforced; family-planning task forces conducted institutionalized, periodic door-to-door inspections. Once the female body was institutionalized and politicized, evasion became virtually impossible. 这也就出现了我们在文章开头看到的照片那一幕。
+
+2. "Failing to Bear a Son": The Crushing Psychological Hardship
+
+When women failed to produce a male heir, they were subjected not only to overwhelming corporeal coercion but also to pervasive moral condemnation from the public, their husbands, and their in-laws. As one account vividly reveals: “People believed that failing to bear a son was a sign of lacking accumulated virtue. They would say, ‘You claim to be a good person, so why don't you even have a son?’” For ordinary, unassuming villagers, such accusations constituted an intolerable humiliation.
+
+This external stigma was inevitably internalized by the women themselves, trapping them in a state of chronic guilt and self-reproach while enduring immense psychological duress:
+
+
+{% include typography/pullquote.html
+  box-align="center"
+  width="70%"
+  text="Everyone else can manage to have a son, so why can't I? I could barely eat or sleep properly; I would just weep secretly into the night."
+%}
+
+
+
+
+
+
+
 ```yaml
  ✦ ✦ ✦
 ```
+
 
 
 
@@ -170,12 +200,16 @@ In fact, we can see that this so-called “one-and-a-half-child” policy was a 
 
 
 
+```yaml
+ ✦ ✦ ✦
+```
 
 
-### Son preference and its long-term effect:
+
+## Epilogue: Son preference and its long-term effect
 
 
-#### “Zhao Di”, the Culture of Naming Daughters
+### “Zhao Di”, the Culture of Naming Daughters
   
 Many women, especially those from older generations, have names containing the character “Di” (娣), such as Pan Di (盼娣) and Zhao Di (招娣). Structurally, the character “Di” is composed of two radicals: “Nü” (女, meaning woman/daughter) and “Di” (弟, meaning younger brother). Thus, these two names respectively signify “hoping the next child will be a younger brother” and “beckoning a younger brother.” 
 
