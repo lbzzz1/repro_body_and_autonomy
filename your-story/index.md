@@ -166,6 +166,7 @@ Many women, especially those from older generations, have names containing the c
   below-box-space="150vh"
   box-align="right"
   box-content="Media outlets have also reported real-life cases, such as a family that gave birth to nine consecutive daughters over twenty years, all named with variations of “Di”. This reality is also mirrored in literary and cinematic works. For instance, in Big Breasts and Wide Hips (Fengru Feitun)—a masterpiece by the renowned Chinese author Yan Mo—a mother names her seven daughters Lai Di (来娣, “bringing a brother”), Zhao Di (招娣, also “bringing a brother”), Ling Di (领娣, “leading a brother”), Xiang Di (想娣, “thinking of a brother”), Pan Di (盼娣, “looking for a brother”), Nian Di (念娣, “missing a brother”), and Qiu Di (求娣, “begging for a brother”)—a sequence that vividly portrays her deepening obsession with having a son. 
+  
   Furthermore, precisely because Chinese characters are ideographic, anyone encountering these women’s names can immediately discern their parents' intense desire and obsession for a son, as well as the marginalized, disempowered status of these women within their own families."
 %}
 
