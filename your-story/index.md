@@ -57,21 +57,19 @@ During the early post-founding period, the Chinese government encouraged childbi
 
 In 1953, at the proposal of demographers such as Ma Yinchu, the Chinese government conducted its first national population census. The data revealed that the population of mainland China had surpassed 600 million, an increase of over 100 million compared to when the nation was founded in 1949. By 1964, data from the second national population census showed that the total national population had reached approximately 723 million.
 
+**The 1970s:**
+
+In the 1970s, the Chinese government began to gradually roll out the family planning policy. In the Fourth Five-Year Plan, the slogan “One is not too few, two is just right, three is too many” was introduced. In 1973, the State Council established the Leading Group for Family Planning. In its publicity and education efforts, the group put forward the slogan “Late, Sparse, and Few.” Later that year, during the first national report meeting on family planning, this slogan was officially adopted as policy. It required late marriage, a spacing of over three years between a couple's first and second child, and a maximum of two children per family.
+
+**1979–1990s:**
+In 1979, the one-child policy was officially put into effect. In September 1980, the Open Letter elevated this policy to “a major measure that bears upon the speed and future of the Four Modernizations, as well as the health and happiness of future generations, and conforms to both the long-term and immediate interests of the people nationwide.” Consequently, individual reproduction became tightly bound to the grand political goal of national modernization, bringing citizens' reproductive bodies under state management.
 
 
-## All the Basics Still Work
-{% capture firstimage %}
-Forest doesn't replace Seedling or Sapling—it **includes** them. You can mix simple images, footnotes, and section headings with the advanced features we're about to show you.
+**Since the 21st Century:**
 
-The key to Forest essays is knowing when to use which tool. Not every moment needs a cinematic treatment. Sometimes a simple image alongside text is exactly right.
-{% endcapture %}
-{% include images/figure-wrap.html
-  image-position="right"
-  image-width="48%"
-  caption="Ferns on the forest floor. Simple figure-wrap, right-aligned at 48%."
-  image-path="images/ferns-closeup.jpg"
-  text=firstimage
-%}
+From its implementation in 1979 until 2015, the one-child policy remained the guiding principle of China’s reproductive policy, despite several adjustments—such as the “one-and-a-half-child” policy in rural areas and the “selective two-child” policy (which allowed couples to have two children if either parent was an only child). However, entering the 21st century, the social and demographic structure underwent massive changes. As China rapidly transitioned into an aging society, the government’s stance on childbirth shifted from restriction to encouragement.
+
+In 2016, the full implementation of the policy allowing all couples to have two children marked the end of the 35-year-old one-child era, officially ushering in the “two-child era.” By 2021, the three-child policy was officially put into effect, accompanied by the rollout of supporting measures to encourage childbirth.
 
 
 ## TBD
