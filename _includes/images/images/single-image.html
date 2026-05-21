@@ -1,6 +1,7 @@
-<div class="single-image-container" style="text-align: center; margin: 20px 0;">
-  <img src="{{ include.src | relative_url }}" alt="{{ include.alt }}" style="max-width: 100%; height: auto; border-radius: 4px;">
-  {% if include.caption %}
-    <p class="image-caption" style="font-size: 0.9em; color: #666; margin-top: 8px;">{{ include.caption }}</p>
-  {% endif %}
-</div>
+```html
+    <div style="text-align: center; margin: 20px 0;">
+      <img src="{{ include.src }}" alt="{{ include.alt }}" style="max-width: 100%; height: auto;">
+      {% if include.caption %}
+        <p style="font-size: 0.9em; color: #666; margin-top: 8px;">{{ include.caption }}</p>
+      {% endif %}
+    </div>
