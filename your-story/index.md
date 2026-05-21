@@ -113,6 +113,7 @@ As a female who was born and raised in a small city in China, I have often heard
 However, does this represent the full picture? How can we objectively, reasonably, and fairly evaluate the overall consequences and lasting impacts (especially the gender equality aspect) of family planning—particularly the one-child policy—in contemporary China? 
 
 
+
 {% include images/single-image.html
   src="images/biaoyu.png"
   caption="A promotional slogan painted on a wall by local authorities, reading: 'Prohibit the discrimination, abuse, and abandonment of female infants."
@@ -120,9 +121,9 @@ However, does this represent the full picture? How can we objectively, reasonabl
 
 
 
-### ** Having a Second Child? Exceptions Under the High-Pressure One-Child Policy**
+### Having a Second Child? Exceptions Under the High-Pressure One-Child Policy
 
-#### ** 1.	The disabled firstborn exception**
+#### 1.	The disabled firstborn exception
 
 Although the family planning policy was strictly implemented during the 1980s, certain exceptions still existed. One was when the firstborn was disabled—Policy documents explicitly stipulated that when the first child was a disabled child, approval could be granted to have a second child. 
 
@@ -131,7 +132,7 @@ To this end, the Administrative Measures for the Medical Identification of Disab
 Childbearing thus became a “quota” that required individuals to apply upward through administrative channels, and was only permitted after official review and approval.
 
 
-#### ** 2.	The  “One-and-a-half-child policy”**
+#### 2.	The  “One-and-a-half-child policy”
 
 
 As discussed above, during the period of 1980–1984, the government adopted an extremely strict one-child policy. However, policymakers underestimated the intense desire for sons within traditional patriarchal families, especially in rural areas. Thus, the draconian one-child policy brought immense panic and resistance to the peasantry. Many rural couples, after having a daughter, would even leave their hometowns and flee to other places, thereby evading inspections by family planning officials, just to have a son. In the 1990s, a highly famous sketch comedy titled “The Above-Quota Birth Guerrillas” (Chaosheng Youjidui) served as an artistic reflection of this social phenomenon.
@@ -153,10 +154,10 @@ In fact, we can see that this so-called “one-and-a-half-child” policy was a 
 
 
 
-### ** Son preference and its long-term effect:**
+### Son preference and its long-term effect:
 
 
-#### ** “Zhao Di”, the Culture of Naming Daughters**
+#### “Zhao Di”, the Culture of Naming Daughters
   
 Many women, especially those from older generations, have names containing the character “Di” (娣), such as Pan Di (盼娣) and Zhao Di (招娣). Structurally, the character “Di” is composed of two radicals: “Nü” (女, meaning woman/daughter) and “Di” (弟, meaning younger brother). Thus, these two names respectively signify “hoping the next child will be a younger brother” and “beckoning a younger brother.” 
 
