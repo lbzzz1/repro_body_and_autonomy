@@ -86,15 +86,13 @@ As a female who was born and raised in a small city in China, I have often heard
 However, does this represent the full picture? How can we objectively, reasonably, and fairly evaluate the overall consequences and lasting impacts (especially the gender equality aspect) of family planning—particularly the one-child policy—in contemporary China? 
 
 
-
-{% include images/biaoyu.png
+{% include images/image.html
   image-path="images/biaoyu.png"
   height="60vh"
   box-align="right"
   background-position="center"
-  caption="A promotional slogan painted on a street by a local, reading: “Prohibit the discrimination, abuse, and abandonment of female infants.”"
+  caption="A promotional slogan painted on a wall by local authorities, reading: 'Prohibit the discrimination, abuse, and abandonment of female infants.'"
 %}
-
 
 
 
