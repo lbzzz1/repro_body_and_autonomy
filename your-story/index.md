@@ -67,6 +67,28 @@ The key to Forest essays is knowing when to use which tool. Not every moment nee
 %}
 
 
+## TBD
+Text:
+
+{% assign forest_images =
+"images/111.png,
+images/222.png" | split: ','
+%}
+
+{% assign forest_captions =
+"Strengthen technical guidance and extensively publicize the scientific knowledge of birth control." Zhao Surong, a doctor from the Tingliuhe Working Committee Hospital, goes into the fields to educate the masses on the scientific knowledge of family planning.|
+Barefoot doctors served as the primary grassroots backbone for carrying out technical guidance on family planning. Leveraging the barefoot doctors' close ties with and deep understanding of the masses, Laoting County actively publicized the great significance of family planning and effectively managed its technical guidance work. This is barefoot doctor Zhou Jinghua, going deep into commune members' homes and sitting on their kang (heated brick bed-stoves) to promote the benefits of family planning and deliver contraceptives directly to the commune members." | split: '|'
+%}
+
+{% include images/carousel.html
+  id="forest-carousel"
+  width="85%"
+  class="center"
+  images=forest_images
+  headers=forest_headers
+  captions=forest_captions
+%}
+
 
 
 
@@ -94,11 +116,10 @@ However, does this represent the full picture? How can we objectively, reasonabl
 
 
 
-### Having a Second Child? Exceptions Under the High-Pressure One-Child Policy
+## Having a Second Child? Exceptions Under the High-Pressure One-Child Policy
 
 
-#### 1.	The disabled firstborn exception
-
+### 1.	The disabled firstborn exception
 
 Although the family planning policy was strictly implemented during the 1980s, certain exceptions still existed. One was when the firstborn was disabled—Policy documents explicitly stipulated that when the first child was a disabled child, approval could be granted to have a second child. 
 
@@ -108,7 +129,7 @@ Childbearing thus became a “quota” that required individuals to apply upward
 
 
 
-#### 2.	The  “One-and-a-half-child policy”
+### 2.	The  “One-and-a-half-child policy”
 
 
 As discussed above, during the period of 1980–1984, the government adopted an extremely strict one-child policy. However, policymakers underestimated the intense desire for sons within traditional patriarchal families, especially in rural areas. Thus, the draconian one-child policy brought immense panic and resistance to the peasantry. Many rural couples, after having a daughter, would even leave their hometowns and flee to other places, thereby evading inspections by family planning officials, just to have a son. In the 1990s, a highly famous sketch comedy titled “The Above-Quota Birth Guerrillas” (Chaosheng Youjidui) served as an artistic reflection of this social phenomenon.
@@ -128,17 +149,17 @@ In fact, we can see that this so-called “one-and-a-half-child” policy was a 
 
 
 
-### Son preference and its long-term effect:
+## Son preference and its long-term effect:
 
 
-#### “Zhao Di”, the Culture of Naming Daughters
+### “Zhao Di”, the Culture of Naming Daughters
 
 
 Many women, especially those from older generations, have names containing the character “Di” (娣), such as Pan Di (盼娣) and Zhao Di (招娣). Structurally, the character “Di” is composed of two radicals: “Nü” (女, meaning woman/daughter) and “Di” (弟, meaning younger brother). Thus, these two names respectively signify “hoping the next child will be a younger brother” and “beckoning a younger brother.” 
 
 
 {% include scrollybox/bg.html
-  height="320vh"
+  height="200vh"
   image-path="images/di.png"
   above-box-space="150vh"
   below-box-space="150vh"
@@ -266,35 +287,6 @@ A fallen tree becomes a nurse log — decomposing over decades, feeding the soil
 {% include scrollybox/bg-ss-close.html %}
 
 
-## Image Carousel With Full Options
-All Sapling components work in Forest too. Here's a carousel with titles and captions:
-
-{% assign forest_images =
-"images/autumn-forest.jpg,
-images/forest-floor-light.jpg,
-images/misty-forest.jpg,
-images/mountain-stream.jpg" | split: ','
-%}
-
-{% assign forest_headers =
-"Ferns,Nurse Log,Autumn Canopy,Morning Mist" | split: ','
-%}
-
-{% assign forest_captions =
-"Ancient plant forms thriving in filtered light.|
-Decomposition feeds the next generation.|
-The canopy transforms with the seasons.|
-Mist softens the boundaries between trees." | split: '|'
-%}
-
-{% include images/carousel.html
-  id="forest-carousel"
-  width="85%"
-  class="center"
-  images=forest_images
-  headers=forest_headers
-  captions=forest_captions
-%}
 
 
 ## What You've Learned in Forest
