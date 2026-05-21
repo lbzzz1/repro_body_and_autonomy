@@ -113,46 +113,30 @@ As a female who was born and raised in a small city in China, I have often heard
 However, does this represent the full picture? How can we objectively, reasonably, and fairly evaluate the overall consequences and lasting impacts (especially the gender equality aspect) of family planning—particularly the one-child policy—in contemporary China? 
 
 
-
-{% assign forest_images =
-"images/biaoyu.png"
-%}
-
-{% assign forest_captions =
-"A promotional slogan painted on a wall by local authorities, reading: 'Prohibit the discrimination, abuse, and abandonment of female infants.'"
-%}
-
-{% include images/carousel.html
-  id="forest-carousel"
-  width="85%"
-  class="center"
-  images=forest_images
-  headers=forest_headers
-  captions=forest_captions
+{% include images/single-image.html
+  src="images/biaoyu.png"
+  caption="A promotional slogan painted on a wall by local authorities, reading: 'Prohibit the discrimination, abuse, and abandonment of female infants."
 %}
 
 
 
+### ** Having a Second Child? Exceptions Under the High-Pressure One-Child Policy**
 
-### Having a Second Child? Exceptions Under the High-Pressure One-Child Policy
-
-#### 1.	The disabled firstborn exception
+#### ** 1.	The disabled firstborn exception**
 
 Although the family planning policy was strictly implemented during the 1980s, certain exceptions still existed. One was when the firstborn was disabled—Policy documents explicitly stipulated that when the first child was a disabled child, approval could be granted to have a second child. 
 
 To this end, the Administrative Measures for the Medical Identification of Disabled Children was promulgated. Under these measures, family planning administrative departments at the provincial and municipal levels (with districts) established expert panels for the medical identification of disabled children. Relevant professionals holding titles of associate senior level or above in the medical field were recruited to review application materials for disabled children (including those with congenital or acquired illnesses, or disabilities resulting from accidental injuries) and to make professional medical identifications.
 
 Childbearing thus became a “quota” that required individuals to apply upward through administrative channels, and was only permitted after official review and approval.
-<div style="clear:both;display:block;width:100%;height:1px;"></div>
 
 
-<p style="font-weight: bold; font-size: 1.25em; margin-top: 2em; margin-bottom: 0.8em; font-family: inherit; color: #222;"> 2.	The  “One-and-a-half-child policy”
+#### ** 2.	The  “One-and-a-half-child policy”**
 
 
-<p>As discussed above, during the period of 1980–1984, the government adopted an extremely strict one-child policy. However, policymakers underestimated the intense desire for sons within traditional patriarchal families, especially in rural areas. Thus, the draconian one-child policy brought immense panic and resistance to the peasantry. Many rural couples, after having a daughter, would even leave their hometowns and flee to other places, thereby evading inspections by family planning officials, just to have a son. In the 1990s, a highly famous sketch comedy titled “The Above-Quota Birth Guerrillas” (Chaosheng Youjidui) served as an artistic reflection of this social phenomenon.
+As discussed above, during the period of 1980–1984, the government adopted an extremely strict one-child policy. However, policymakers underestimated the intense desire for sons within traditional patriarchal families, especially in rural areas. Thus, the draconian one-child policy brought immense panic and resistance to the peasantry. Many rural couples, after having a daughter, would even leave their hometowns and flee to other places, thereby evading inspections by family planning officials, just to have a son. In the 1990s, a highly famous sketch comedy titled “The Above-Quota Birth Guerrillas” (Chaosheng Youjidui) served as an artistic reflection of this social phenomenon.
 
-<p>In light of this, the government issued Document No. 7 on April 13, 1984, titled “Report on the Situation of Family Planning,” which laid down the following regulation: 
-<div style="clear:both;display:block;width:100%;height:1px;"></div>
+In light of this, the government issued Document No. 7 on April 13, 1984, titled “Report on the Situation of Family Planning,” which laid down the following regulation: 
 
 
 
@@ -163,17 +147,16 @@ Childbearing thus became a “quota” that required individuals to apply upward
 %}
 
 
-<p>In fact, we can see that this so-called “one-and-a-half-child” policy was a response by the government to the resistance of the peasantry, who were driven by traditional and rooted gender preference. It represented a partial compromise and concession. Consequently, the emergence of such a semi-policy actually resulted in the following consequence: the state, in a disguised form, recognized that the value of a girl is far inferior to that of a boy, and therefore another must be born to make up for it. This policy influence, acting as a psychological suggestive guidance, has actually deepened the concept of preferring sons over daughters. The policy itself has a gender orientation; the policy is not gender-neutral.
-<div style="clear:both;display:block;width:100%;height:1px;"></div>
+In fact, we can see that this so-called “one-and-a-half-child” policy was a response by the government to the resistance of the peasantry, who were driven by traditional and rooted gender preference. It represented a partial compromise and concession. Consequently, the emergence of such a semi-policy actually resulted in the following consequence: the state, in a disguised form, recognized that the value of a girl is far inferior to that of a boy, and therefore another must be born to make up for it. This policy influence, acting as a psychological suggestive guidance, has actually deepened the concept of preferring sons over daughters. The policy itself has a gender orientation; the policy is not gender-neutral.
 
 
 
 
 
-<p style="font-weight: bold; font-size: 1em; margin-top: 2em; margin-bottom: 0.8em; font-family: inherit; color: #222;"> Son preference and its long-term effect:
+### ** Son preference and its long-term effect:**
 
 
-<p style="font-weight: bold; font-size: 1.2em; margin-top: 1.5em; margin-bottom: 0.6em; font-family: inherit; color: #333;"> “Zhao Di”, the Culture of Naming Daughters
+#### ** “Zhao Di”, the Culture of Naming Daughters**
   
 Many women, especially those from older generations, have names containing the character “Di” (娣), such as Pan Di (盼娣) and Zhao Di (招娣). Structurally, the character “Di” is composed of two radicals: “Nü” (女, meaning woman/daughter) and “Di” (弟, meaning younger brother). Thus, these two names respectively signify “hoping the next child will be a younger brother” and “beckoning a younger brother.” 
 
@@ -190,22 +173,6 @@ Many women, especially those from older generations, have names containing the c
 %}
 
 
-
-## What You've Learned in Forest
-If you can create a Forest essay, you have mastered:
-
-- **All Seedling components** — Images (figure + figure-wrap), headings, footnotes, pull quotes, block quotes, alert boxes
-- **All Sapling components** — Scrollyboxes (bg.html), carousels, jumbotrons, pacing control
-- **Advanced Forest features:**
-  - Juxtapose interactive comparisons with custom starting position
-  - Sticky backgrounds (bg-sticky)
-  - Background switching with multiple images (bg-multi-long + bg-switch)
-  - Side-scroll sections (bg-ss + bg-ss-image + bg-ss-close)
-  - Center-aligned pull quotes and left-aligned blockquotes
-  - Header eyebrow, divider, and subtitle fields
-  - Auto-scroll for demos
-
-**Between all the essays, you've seen the full Xanthan toolkit.** Not every essay needs every feature, but you now have complete control over how to tell visual stories on the web.
 
 ---
 
