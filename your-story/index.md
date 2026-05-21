@@ -62,6 +62,7 @@ In 1953, at the proposal of demographers such as Ma Yinchu, the Chinese governme
 In the 1970s, the Chinese government began to gradually roll out the family planning policy. In the Fourth Five-Year Plan, the slogan “One is not too few, two is just right, three is too many” was introduced. In 1973, the State Council established the Leading Group for Family Planning. In its publicity and education efforts, the group put forward the slogan “Late, Sparse, and Few.” Later that year, during the first national report meeting on family planning, this slogan was officially adopted as policy. It required late marriage, a spacing of over three years between a couple's first and second child, and a maximum of two children per family.
 
 **1979–1990s:**
+
 In 1979, the one-child policy was officially put into effect. In September 1980, the Open Letter elevated this policy to “a major measure that bears upon the speed and future of the Four Modernizations, as well as the health and happiness of future generations, and conforms to both the long-term and immediate interests of the people nationwide.” Consequently, individual reproduction became tightly bound to the grand political goal of national modernization, bringing citizens' reproductive bodies under state management.
 
 
@@ -161,7 +162,7 @@ However, does this represent the full picture? How can we objectively, reasonabl
 
 
 
-### Son preference and its long-term effect:
+<p style="font-weight: bold; font-size: 1em; margin-top: 2em; margin-bottom: 0.8em; font-family: inherit; color: #222;"> Son preference and its long-term effect:
 
 
 <p style="font-weight: bold; font-size: 1.2em; margin-top: 1.5em; margin-bottom: 0.6em; font-family: inherit; color: #333;"> “Zhao Di”, the Culture of Naming Daughters
@@ -180,118 +181,6 @@ However, does this represent the full picture? How can we objectively, reasonabl
   Furthermore, precisely because Chinese characters are ideographic, anyone encountering these women’s names can immediately discern their parents' intense desire and obsession for a son, as well as the marginalized, disempowered status of these women within their own families."
 %}
 
-
-
-
-
-## Sticky Background
-
-The **sticky background** is similar to a scrollybox but uses CSS `position: sticky` instead of `background-attachment: fixed`. The visual effect is subtly different — the image scrolls *with* you until it reaches the top of the viewport, then sticks while content continues past it.
-
-{% include scrollybox/bg-sticky.html
-  image-path="images/misty-forest.jpg"
-  height="100vh"
-  above-box-space="50vh"
-  below-box-space="80vh"
-  box-align="right"
-  box-content="
-**Sticky background with right-aligned text box.**
-
-This component works like the scrollybox from Sapling, but uses a different CSS technique. The image feels more grounded — it moves with the page before locking into place.
-
-Use `bg-sticky` when:
-- You want the image to arrive with the scroll rather than being revealed behind content
-- You need more reliable behavior on mobile devices
-- The sticky \"lock-in\" moment adds to your narrative
-"
-%}
-
-
-
-## Background Switching: Multiple Images
-This is what makes Forest essays truly cinematic. You're about to scroll through a section where the background image **switches multiple times** as you read, creating a visual sequence that matches your narrative.
-
-**Watch carefully:** The background starts with one image, then switches to a second, then a third. The text box stays visible throughout.
-
-{% include scrollybox/bg-multi-long.html
-  bg-id="forest-bg"
-  image-path="images/forest-floor-light.jpg"
-  above-box-space="0"
-%}
-
-The first image — a foggy forest scene. This multi-section scrollybox opens with `bg-multi-long.html`, which sets the initial background. Content between here and the `bg-multi-long-close.html` tag appears in a text box that scrolls over the changing backgrounds.
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus nec ante ligula. Nulla fringilla ligula sit amet nisl consectetur ultricies. Mauris ac tellus eu ante lobortis rhoncus non eu nisl.
-
-
-### SWITCH: Moss and Bark
-
-{% include scrollybox/bg-switch.html
-  image-path="images/r-g-3GLKJiuOKrI-unsplash.jpg"
-  switch-id="forest-switch1"
-  bg-id="forest-bg"
-%}
-
-The background just switched to moss on a log. Each `bg-switch` tag triggers a new background image when the reader scrolls past it. You can chain as many switches as your narrative needs.
-
-Duis ut dui dolor. Integer eu lectus at tellus accumsan euismod eget a ligula. Morbi venenatis, elit eu varius fermentum, ligula est dictum massa, sit amet ullamcorper augue nisl ut nunc.
-
-
-### SWITCH: Looking Up
-
-{% include scrollybox/bg-switch.html
-  image-path="images/tree-canopy-up.jpg"
-  switch-id="forest-switch2"
-  bg-id="forest-bg"
-%}
-
-Now the canopy — three layers of the forest shown through three background switches. This technique works for:
-- Spatial narratives (moving through a building, landscape, or archive)
-- Temporal sequences (before, during, after)
-- Evidence building (presenting multiple sources for one argument)
-- Scale shifts (close-up → medium → wide)
-
-Duis eros odio, fringilla et pulvinar vitae, eleifend quis elit. Sed eleifend lectus in bibendum elementum. Watch as the text box scrolls out of view, followed by the background fading away.
-
-{% include scrollybox/bg-multi-long-close.html %}
-
-
-## Back to Normal Flow
-Notice how smoothly you transitioned from that immersive multi-image sequence back to regular essay format? Mixing intense and calm sections creates the rhythm that makes Forest essays compelling.
-
-
-## Side-Scroll Section
-
-The **side-scroll** component creates a different reading pattern: images appear inline with your text, breaking the vertical flow with full-width visuals.
-
-{% include scrollybox/bg-ss.html
-  ss-id="forest-walk"
-  pre-box-space="10"
-%}
-
-We begin in the understory. The light here is filtered through layers of leaves above, creating patterns on the forest floor. Every surface harbors life — fungi breaking down fallen wood, mosses covering rocks, insects navigating root systems.
-
-Side-scroll sections alternate between text blocks and full-width images, letting you pace your visual narrative differently from scrollyboxes.
-
-{% include scrollybox/bg-ss-image.html
-  ss-id="forest-walk"
-  image-path="images/ferns-closeup.jpg"
-  alt-text="Close-up of ferns on the forest floor"
-%}
-
-Ferns unfurl from tight spirals called fiddleheads — one of the oldest plant forms on Earth, predating flowering plants by hundreds of millions of years. They thrive in the shade that would starve most other plants.
-
-This is the second text block in the side-scroll section. Each `bg-ss-image` inserts an image and starts a new text block. You can chain as many image-text pairs as you need.
-
-{% include scrollybox/bg-ss-image.html
-  ss-id="forest-walk"
-  image-path="images/moss-log.jpg"
-  alt-text="Moss growing on a fallen log"
-%}
-
-A fallen tree becomes a nurse log — decomposing over decades, feeding the soil, hosting new seedlings on its surface. Nothing in a forest is wasted. The side-scroll pattern works well for this kind of sequential observation: walk, look closely, reflect, walk again.
-
-{% include scrollybox/bg-ss-close.html %}
 
 
 
