@@ -101,7 +101,6 @@ However, does this represent the full picture? How can we objectively, reasonabl
 ### Having a Second Child? Exceptions Under the High-Pressure One-Child Policy
 
 
-
 #### 1.	The disabled firstborn exception
 
 
@@ -112,7 +111,9 @@ To this end, the Administrative Measures for the Medical Identification of Disab
 Childbearing thus became a “quota” that required individuals to apply upward through administrative channels, and was only permitted after official review and approval.
 
 
+
 #### 2.	The  “One-and-a-half-child policy”
+
 
 As discussed above, during the period of 1980–1984, the government adopted an extremely strict one-child policy. However, policymakers underestimated the intense desire for sons within traditional patriarchal families, especially in rural areas. Thus, the draconian one-child policy brought immense panic and resistance to the peasantry. Many rural couples, after having a daughter, would even leave their hometowns and flee to other places, thereby evading inspections by family planning officials, just to have a son. In the 1990s, a highly famous sketch comedy titled “The Above-Quota Birth Guerrillas” (Chaosheng Youjidui) served as an artistic reflection of this social phenomenon.
 
@@ -121,7 +122,9 @@ In light of this, the government issued Document No. 7 on April 13, 1984, titled
 In fact, we can see that this so-called “one-and-a-half-child” policy was a response by the government to the resistance of the peasantry, who were driven by traditional and rooted gender preference. It represented a partial compromise and concession. Consequently, the emergence of such a semi-policy actually resulted in the following consequence: the state, in a disguised form, recognized that the value of a girl is far inferior to that of a boy, and therefore another must be born to make up for it. This policy influence, acting as a psychological suggestive guidance, has actually deepened the concept of preferring sons over daughters. The policy itself has a gender orientation; the policy is not gender-neutral.
 
 
+
 ### Son preference and its long-term effect:
+
 
 #### “Zhao Di”, the Culture of Naming Daughters
 
@@ -129,18 +132,6 @@ Many women, especially those from older generations, have names containing the c
 
 Furthermore, precisely because Chinese characters are ideographic, anyone encountering these women’s names can immediately discern their parents' intense desire and obsession for a son, as well as the marginalized, disempowered status of these women within their own families.
 
-
-
-
-
-
-
-quota:
-
-{% include typography/blockquote.html
-  box-align="left"
-  text="The forest floor receives only 2% of the sunlight that hits the canopy. What grows there has adapted to work with almost nothing — and yet the understory is where most of the forest's biodiversity lives."
-%}
 
 
 
