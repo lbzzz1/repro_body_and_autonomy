@@ -123,7 +123,7 @@ For many families, this constituted an overwhelmingly heavy financial burden tha
 
 Although a comprehensive spectrum of contraceptive interventions (ranging from oral contraceptives and intrauterine devices (IUDs) to induced abortions and tubal ligations) was universally provisioned to women, the agency over whether and how to utilize them was completely stripped from their hands. 
 
-For instance, in West Village during the 1980s, the prescriptive principle of birth control mandated that "an IUD follow the first child, and sterilization follow the second." These interventions were coercively imposed and rigorously enforced; family-planning task forces conducted institutionalized, periodic door-to-door inspections. Once the female body was institutionalized and politicized, evasion became virtually impossible. 这也就出现了我们在文章开头看到的照片那一幕。
+For instance, in West Village during the 1980s, the prescriptive principle of birth control mandated that "an IUD follow the first child, and sterilization follow the second." These interventions were coercively imposed and rigorously enforced; family-planning task forces conducted institutionalized, periodic door-to-door inspections. Once the female body was institutionalized and politicized, evasion became virtually impossible. This contextualizes the exact scene captured in the photograph at the beginning of this paper.
 
 2. "Failing to Bear a Son": The Crushing Psychological Hardship
 
